@@ -1,7 +1,6 @@
-import { Box, Card, CardMedia, Paper, Typography } from '@mui/material'
+import { Box, CardMedia, Typography } from '@mui/material'
 import { styled } from '@mui/material/styles'
 import { colorBlack, colorWhite } from '../../UI/variablesStyle'
-import TwitterIcon from '@mui/icons-material/Twitter'
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
 import GitHubIcon from '@mui/icons-material/GitHub'
