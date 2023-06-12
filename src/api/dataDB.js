@@ -1,7 +1,8 @@
 import axios from 'axios'
 
 const dataDB = axios.create({
-  baseURL: 'http://localhost:5000'
+  baseURL: 'https://musicflix-api.vercel.app/'
+  // baseURL: 'http://localhost:5000'
 })
 
 export const getVideos = () => dataDB.get('/videos')
