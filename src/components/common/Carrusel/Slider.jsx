@@ -58,7 +58,7 @@ function SliderComponent() {
                 background: `${categoria.color}`,
                 marginBottom: '2rem',
                 borderRadius: '25px',
-                width: '10rem',
+                width: '15rem',
                 textAlign: 'center',
                 color: `${colorWhite}`,
                 padding: '1rem'
