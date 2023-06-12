@@ -1,0 +1,163 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Mientras me curo del cora",
+      "linkVideo": "https://www.youtube.com/watch?v=37wmW9kYAlQ",
+      "linkImage": "https://img.youtube.com/vi/37wmW9kYAlQ/maxresdefault.jpg",
+      "categoria": "Urbano",
+      "descripcion": "Mientras me curo del cora - Karol G",
+      "codigoSeguridad": "mecurodelcora2023"
+    },
+    {
+      "id": 2,
+      "titulo": "Me porto bonito",
+      "linkVideo": "https://www.youtube.com/watch?v=saGYMhApaH8",
+      "linkImage": "https://img.youtube.com/vi/saGYMhApaH8/maxresdefault.jpg",
+      "categoria": "Urbano",
+      "descripcion": "Me porto bonito - Bad Buny ft. Chencho Corleone",
+      "codigoSeguridad": "meportobonito2023"
+    },
+    {
+      "id": 3,
+      "titulo": "69",
+      "linkVideo": "https://www.youtube.com/watch?v=lPD4G6wW09g",
+      "linkImage": "https://img.youtube.com/vi/lPD4G6wW09g/maxresdefault.jpg",
+      "categoria": "Urbano",
+      "descripcion": "69 - Nicky Jam x Feid",
+      "codigoSeguridad": "69nicky2023"
+    },
+    {
+      "id": 4,
+      "titulo": "El avioncito",
+      "linkVideo": "https://www.youtube.com/watch?v=VSbD72V_rCY",
+      "linkImage": "https://img.youtube.com/vi/VSbD72V_rCY/maxresdefault.jpg",
+      "categoria": "Urbano",
+      "descripcion": "El avioncito - Giblack",
+      "codigoSeguridad": "avioncito2023"
+    },
+    {
+      "id": 5,
+      "titulo": "La bebe (Remix)",
+      "linkVideo": "https://www.youtube.com/watch?v=LYhcqIQZ5-Y",
+      "linkImage": "https://img.youtube.com/vi/LYhcqIQZ5-Y/maxresdefault.jpg",
+      "categoria": "Urbano",
+      "descripcion": "La Bebe (Remix) - Yng Lvcas ft. Peso Pluma",
+      "codigoSeguridad": "labebe2023"
+    },
+    {
+      "id": 6,
+      "titulo": "Algo que se quede",
+      "linkVideo": "https://www.youtube.com/watch?v=khB6DUHpR4o",
+      "linkImage": "https://img.youtube.com/vi/khB6DUHpR4o/maxresdefault.jpg",
+      "categoria": "Salsa",
+      "descripcion": "Algo que se quede - Grupo Niche",
+      "codigoSeguridad": "algoquesequede2023"
+    },
+    {
+      "id": 7,
+      "titulo": "Me hace daño verte",
+      "linkVideo": "https://www.youtube.com/watch?v=xf8TaFoog1o",
+      "linkImage": "https://img.youtube.com/vi/xf8TaFoog1o/maxresdefault.jpg",
+      "categoria": "Salsa",
+      "descripcion": "Me hace daño verte - Fresto",
+      "codigoSeguridad": "danioverte2023"
+    },
+    {
+      "id": 8,
+      "titulo": "Flor pálida",
+      "linkVideo": "https://www.youtube.com/watch?v=3VmoZrxXbmg",
+      "linkImage": "https://img.youtube.com/vi/3VmoZrxXbmg/maxresdefault.jpg",
+      "categoria": "Salsa",
+      "descripcion": "Flor pálida - Marc Anthony",
+      "codigoSeguridad": "florpalida2023"
+    },
+    {
+      "id": 9,
+      "titulo": "Sabre olvidar",
+      "linkVideo": "https://www.youtube.com/watch?v=52EN2Kd45qU",
+      "linkImage": "https://img.youtube.com/vi/52EN2Kd45qU/maxresdefault.jpg",
+      "categoria": "Salsa",
+      "descripcion": "Sabre olvidar - Joe Arroyo",
+      "codigoSeguridad": "sabreolvidar2023"
+    },
+    {
+      "id": 10,
+      "titulo": "Amor y control",
+      "linkVideo": "https://www.youtube.com/watch?v=NgP0OYgWHpY",
+      "linkImage": "https://img.youtube.com/vi/NgP0OYgWHpY/maxresdefault.jpg",
+      "categoria": "Salsa",
+      "descripcion": "Amor y control - Rubén Blades",
+      "codigoSeguridad": "amorycontrol2023"
+    },
+    {
+      "id": 11,
+      "titulo": "Las locuras mías",
+      "linkVideo": "https://www.youtube.com/watch?v=LqKscPDW8Y0",
+      "linkImage": "https://img.youtube.com/vi/LqKscPDW8Y0/maxresdefault.jpg",
+      "categoria": "Vallenato",
+      "descripcion": "Las locuras mías - Silvestre Dangond",
+      "codigoSeguridad": "laslocurasmias2023"
+    },
+    {
+      "id": 12,
+      "titulo": "Modo avión",
+      "linkVideo": "https://www.youtube.com/watch?v=sNC94gUUld4",
+      "linkImage": "https://img.youtube.com/vi/sNC94gUUld4/maxresdefault.jpg",
+      "categoria": "Vallenato",
+      "descripcion": "Modo avión - Elder Dayán Díaz",
+      "codigoSeguridad": "modoavion2023"
+    },
+    {
+      "id": 13,
+      "titulo": "Las cosas de la vida",
+      "linkVideo": "https://www.youtube.com/watch?v=z4j2WZq9hsA",
+      "linkImage": "https://img.youtube.com/vi/z4j2WZq9hsA/maxresdefault.jpg",
+      "categoria": "Vallenato",
+      "descripcion": "Las cosas de la vida - Carlos Vives",
+      "codigoSeguridad": "lascosasdelavida2023"
+    },
+    {
+      "id": 14,
+      "titulo": "Se acabó",
+      "linkVideo": "https://www.youtube.com/watch?v=847TBEVAod0",
+      "linkImage": "https://img.youtube.com/vi/847TBEVAod0/maxresdefault.jpg",
+      "categoria": "Vallenato",
+      "descripcion": "Se acabó - Osmar Pérez & Los Chiches Vallenatos",
+      "codigoSeguridad": "seacabo2023"
+    },
+    {
+      "id": 15,
+      "titulo": "Sin medir distancias",
+      "linkVideo": "https://www.youtube.com/watch?v=lAITJiV8xbQ",
+      "linkImage": "https://img.youtube.com/vi/lAITJiV8xbQ/maxresdefault.jpg",
+      "categoria": "Vallenato",
+      "descripcion": "Sin medir distancias - Diomedes Díaz",
+      "codigoSeguridad": "sinmedirdistancias2023"
+    }
+  ],
+
+  "categorias": [
+    {
+      "id": "urbano",
+      "nombre": "Urbano",
+      "descripcion": "Música Urbana que incluye sonidos actuales de Reggaetón, Trap, Champeta y sus fusiones",
+      "color": "#00C86F",
+      "codigoSeguridad": "urbano2023"
+    },
+    {
+      "id": "salsa",
+      "nombre": "Salsa",
+      "descripcion": "Música que es realizada y escuchada principalmente en América latina",
+      "color": "#6B5BE2",
+      "codigoSeguridad": "salsa2023"
+    },
+    {
+      "id": "vallenato",
+      "nombre": "Vallenato",
+      "descripcion": "Música realizada principalmente en la zona costera de Colombia",
+      "color": "#FFBA05",
+      "codigoSeguridad": "vallenato2023"
+    }
+  ]
+}
